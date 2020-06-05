@@ -1,6 +1,0 @@
-aclocal
-automake --add-missing
-autoconf
-./configure
-make
-sudo make install
